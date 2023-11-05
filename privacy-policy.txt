@@ -1,0 +1,33 @@
+Privacy Policy for Actum
+Last Updated: 5-11-2023
+1. Introduction
+Welcome to Actum! This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our mobile application. By using Actum, you consent to the practices described in this Privacy Policy.
+2. Information We Collect
+2.1. Personal Information
+* We may collect personal information such as your name, email address, and contact details when you register for an account or contact us for support.
+2.2. Non-Personal Information
+* We may collect non-personal information such as device information, usage statistics, and analytics data to improve the performance and functionality of our app.
+3. How We Use Your Information
+We may use the collected information for the following purposes:
+* To provide, maintain, and improve Actum's features and services.
+* To personalize your experience and deliver content and product offerings relevant to your interests.
+* To respond to your requests, comments, or questions.
+* To send you important information, notifications, and updates related to the app.
+* To monitor app usage and conduct research and analysis to better understand user behavior.
+4. Data Sharing
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent. However, we may share your information with trusted service providers who assist us in operating Actum or conducting our business.
+5. Data Security
+We take data security seriously and implement appropriate measures to protect your information. However, no method of data transmission or storage is 100% secure, and we cannot guarantee absolute security.
+6. Your Choices
+You have the following choices regarding your personal information:
+* You can access, correct, or update your personal information through your Actum account.
+* You can opt out of receiving promotional emails by following the unsubscribe instructions provided in the email.
+7. Children's Privacy
+Actum is not intended for children under the age of 13. We do not knowingly collect or store personal information from children under 13. If you believe we have inadvertently collected such information, please contact us to have it removed.
+8. Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted here with the updated date. Your continued use of Actum after these changes constitutes your acceptance of the revised Privacy Policy.
+9. Contact Us
+If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact us at [Your Contact Information].
+10. Governing Law
+This Privacy Policy is governed by the laws of India, and any disputes shall be subject to the jurisdiction of the Indian courts.
+
